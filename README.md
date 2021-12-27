@@ -1,2 +1,3 @@
 # react-kanban
-Created with CodeSandbox
+
+[Link](https://zgng8.csb.app) para acessar o projeto
